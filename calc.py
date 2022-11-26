@@ -1,4 +1,4 @@
-def add(x,y):
+def addition(x,y):
     pass
 def Sub(x,y):
     pass
